@@ -1,3 +1,6 @@
 [submodule "mastodon-post-backup"]
 	path = mastodon-post-backup
 	url = https://github.com/creeva/mastodon-post-backup
+[submodule "netflix-archive"]
+	path = netflix-archive
+	url = https://github.com/creeva/netflix-archive

@@ -1,0 +1,3 @@
+[submodule "mastodon-post-backup"]
+	path = mastodon-post-backup
+	url = https://github.com/creeva/mastodon-post-backup
